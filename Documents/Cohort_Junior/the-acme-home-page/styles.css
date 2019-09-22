@@ -1,0 +1,45 @@
+.image {
+    width: 100px;
+    height: 100px;
+    background-image: url('IMG_5266.jpg');
+    border-radius:50px;
+    background-position: center;
+    background-size: cover;
+}
+body {
+    font-family: sans-serif;
+}
+.boxed{
+    background-color: whitesmoke;
+}
+section{
+    margin: auto;
+    width: 95%;
+}
+
+.FavColor{
+    background-color: lightgrey;
+    margin-bottom: 0.3rem;
+}
+.underline{
+    border-bottom-style: solid;
+    border-bottom-color: orange;
+}
+h1,h2{
+    color:white;
+    padding:1rem;
+
+}
+h1 {
+    background-color: dodgerblue;
+    text-align: center;
+}
+h2 {
+    background-color: tomato;
+}
+.colorOne{
+    color:tomato;
+}
+.colorTwo{
+    color:dodgerblue;
+}
